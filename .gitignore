@@ -1,0 +1,14 @@
+#enviromental varibles
+.env
+#media folder this holds all file from pdf to imgaes
+media
+#all cache and 
+mainapp/migrations
+mainapp/services/__pycache__
+mainapp/__pycache__
+
+#for testing removed 
+frontend
+
+#database
+db.sqlite3
