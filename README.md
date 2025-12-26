@@ -99,12 +99,13 @@ AI_MODEL=gemini_ai_model
 
 Core features complete
 Future improvements:
- -Background tasks (Celery)
- -PDF themes
- -Multi-language OCR (--d)
- -AI caching
+ - Background tasks (Celery)
+ - PDF themes
+ - Multi-language OCR (--d)
+ - AI caching
 
 
 ### Author
- -Built for students, by students.
- -Designed to make studying smarter and faster.
+ - Built for students, by students.
+ - Designed to make studying smarter and faster.
+

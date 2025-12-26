@@ -1,3 +1,4 @@
+
 Django==4.2.27
 djangorestframework==3.16.1
 djangorestframework_simplejwt==5.5.1
@@ -32,3 +33,6 @@ typing_extensions==4.15.0
 six==1.17.0
 packaging==25.0
 tqdm==4.67.1
+
+dj-database-url==3.0.1
+psycopg2-binary==2.9.11
